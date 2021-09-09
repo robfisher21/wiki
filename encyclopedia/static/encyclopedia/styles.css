@@ -36,3 +36,31 @@ textarea {
 .sidebar h2 {
     margin-top: 5px;
 }
+
+#id_title {
+    float: left;
+    width:60%;
+    width:600px;
+    margin-bottom: 10px;
+}
+
+label {
+    clear:both;
+    float: left;
+    width: 200px;
+    padding-right: 24px;
+}
+
+#id_content {
+    float:left;
+    width:600px;
+    height: 600px;
+    margin-bottom: 10px;
+}
+
+#id_EntryButton {
+    display: block;
+    clear:both;
+    float:left;
+    
+}
